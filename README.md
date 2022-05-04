@@ -3,7 +3,7 @@ Strip payments platform in python code
 
 # XRPL
 
-![An image of stripe the company.](Stripe-Payment.png)
+![An image of stripe the company.](Stripe-Payment.wepb)
 
 
 ## The XRP Ledger (XRPL) is a decentralized public blockchain & a public good
