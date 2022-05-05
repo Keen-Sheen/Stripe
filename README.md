@@ -35,6 +35,6 @@ print(customer.email)
 Unsuccessful requests raise exceptions. The class of the exception will reflect the sort of error that occurred. Please see the [Api Reference](https://stripe.com/docs/api/errors/handling) for a description of the error classes you should handle, and for information on how to inspect these errors.
 
 ## Per-request Configuration
-Configure individual requests with keyword arguments. For example, you can make requests with a specific (Stripe Version)[https://stripe.com/docs/api/versioning] or as a (connected account) [https://stripe.com/docs/connect/authentication#authentication-via-the-stripe-account-header]:
+Configure individual requests with keyword arguments. For example, you can make requests with a specific (Stripe Version)[https://stripe.com/docs/api/versioning] or as a (connected account)[https://stripe.com/docs/connect/authentication#authentication-via-the-stripe-account-header]:
 
 
