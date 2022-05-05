@@ -37,4 +37,4 @@ Unsuccessful requests raise exceptions. The class of the exception will reflect 
 ## Per-request Configuration
 Configure individual requests with keyword arguments. For example, you can make requests with a specific [Stripe Version](https://stripe.com/docs/api/versioning) or as a [connected account](https://stripe.com/docs/connect/authentication#authentication-via-the-stripe-account-header):
 
-
+![An image of exicution results.](stripe_json.png)
